@@ -45,7 +45,7 @@ This project implements a Pomodoro timer using an Arduino Uno board, a 4-digit T
 - **Break Sessions**: After each focus session, a 5-minute break is provided. After every 4th focus session, a longer 30-minute break is provided.
 - **Buzzer**: The buzzer sounds 5 short beeps at the end of each session (focus or break). The frequency of the beep is customizable.
 - **Display**: The **TM1637 4-digit display** shows the remaining time in **MM:SS** format.
-![Pomodoro Timer](pomodoro-timer-setup.jpg)
+<img src="pomodoro-timer-setup.jpg" alt="Pomodoro Timer" width="300" />
 
 
 ---
