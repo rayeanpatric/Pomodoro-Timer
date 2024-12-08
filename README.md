@@ -9,7 +9,6 @@ This project implements a Pomodoro timer using an Arduino Uno board, a 4-digit T
 - **Active Buzzer**
 - **Breadboard**
 - **Jumper Wires**
-- **Resistor (220Ω for the buzzer)**
 - **Battery (for powering the Arduino)**
 
 ## Pin Connections
